@@ -4,9 +4,6 @@ namespace MehediIitdu\CoreComponentRepository;
 
 use Illuminate\Support\Facades\Facade;
 
-/**
- * @see \MehediIitdu\CoreComponentRepository\Skeleton\SkeletonClass
- */
 class CoreComponentRepositoryFacade extends Facade
 {
     /**
