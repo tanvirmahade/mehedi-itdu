@@ -9,7 +9,7 @@
 You can install the package via composer:
 
 ```bash
-composer require php/core-component-repository @dev
+composer require phptr/core-component-repository @dev
 ```
 
 ## Usage
