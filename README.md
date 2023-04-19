@@ -1,11 +1,8 @@
-# Short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mehedi-tanwir/core-component-repository.svg?style=flat-square)](https://packagist.org/packages/mehedi-tanwir/core-component-repository)
 [![Build Status](https://img.shields.io/travis/mehedi-tanwir/core-component-repository/master.svg?style=flat-square)](https://travis-ci.org/mehedi-tanwir/core-component-repository)
 [![Quality Score](https://img.shields.io/scrutinizer/g/mehedi-tanwir/core-component-repository.svg?style=flat-square)](https://scrutinizer-ci.com/g/mehedi-tanwir/core-component-repository)
 [![Total Downloads](https://img.shields.io/packagist/dt/mehedi-tanwir/core-component-repository.svg?style=flat-square)](https://packagist.org/packages/mehedi-tanwir/core-component-repository)
-
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation
 
