@@ -21,12 +21,12 @@ Add this line under providers array in config/app.php
 MehediIitdu\CoreComponentRepository\CoreComponentRepositoryServiceProvider::class
 ```
 ## In Controller 
-add this at the top in controller 
+Add this at the top of controller 
 ``` php
 use CoreComponentRepository;
 ```
 ## In Controller method
-add this in controller method. You can use it in any method in controller;
+Add this in controller method. You can use it in any method in controller;
 ``` php
 CoreComponentRepository::instantiateShopRepository();
 ```
