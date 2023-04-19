@@ -8,7 +8,8 @@
     "homepage": "https://github.com/mehedi-tanwir/core-component-repository",
     "license": "MIT",
     "type": "library",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Mehedi Hasan",
@@ -19,7 +20,6 @@
     "require": {
         "php": "^7.3|^8.1",
         "illuminate/support": "*",
-        "minimum-stability": "stable"
     },
     "require-dev":{
         "phpunit/phpunit" : "*",
@@ -27,7 +27,6 @@
         "satooshi/php-coveralls": "^0.7.0",
         "mockery/mockery": ">=0.7.2",
         "phpspec/phpspec": "~2.0",
-        "minimum-stability": "stable"
     },
     "autoload": {
         "psr-4": {
