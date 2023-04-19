@@ -8,11 +8,11 @@
     "homepage": "https://github.com/mehedi-tanwir/core-component-repository",
     "license": "MIT",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Mehedi Hasan",
+            "name": "Md Ronju",
             "email": "mronju0@gmail.com",
             "role": "Developer"
         }
