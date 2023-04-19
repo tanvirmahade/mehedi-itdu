@@ -8,8 +8,6 @@
     "homepage": "https://github.com/mehedi-tanwir/core-component-repository",
     "license": "MIT",
     "type": "library",
-    "version": "1.1.0",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Md Ronju",
@@ -19,8 +17,7 @@
     ],
     "require": {
         "php": "^7.3|^8.1",
-        "illuminate/support": "*",
-        "composer/composer": "1.0.*@dev"
+        "illuminate/support": "*"
     },
     "require-dev":{
         "phpunit/phpunit" : "*",
