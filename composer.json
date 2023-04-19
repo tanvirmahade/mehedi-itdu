@@ -8,6 +8,7 @@
     "homepage": "https://github.com/mehedi-tanwir/core-component-repository",
     "license": "MIT",
     "type": "library",
+    "version": "1.0.0"
     "authors": [
         {
             "name": "Mehedi Hasan",
