@@ -11,7 +11,7 @@ You can install the package via composer:
 ```bash
 composer require phptr/core-component-repository @dev
 ```
-If You can face any error try this via composer:
+If You face any error try this via composer:
 ```bash
 composer require phptr/core-component-repository @dev --ignore-platform-reqs
 ```
