@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.3|^8.1",
         "illuminate/support": "*",
-        "mehedi-tanwir/core-component-repository": "@dev"
+        "minimum-stability": "stable"
     },
     "require-dev":{
         "phpunit/phpunit" : "*",
