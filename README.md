@@ -1,4 +1,4 @@
-# Very short description of the package
+# Short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mehedi-tanwir/core-component-repository.svg?style=flat-square)](https://packagist.org/packages/mehedi-tanwir/core-component-repository)
 [![Build Status](https://img.shields.io/travis/mehedi-tanwir/core-component-repository/master.svg?style=flat-square)](https://travis-ci.org/mehedi-tanwir/core-component-repository)
@@ -18,31 +18,25 @@ composer require mehedi-tanwir/core-component-repository
 ## Usage
 Add this line under providers array in config/app.php
 ``` php
-Meheditanwir\CoreComponentRepository\CoreComponentRepositoryServiceProvider::class
+MehediIitdu\CoreComponentRepository\CoreComponentRepositoryServiceProvider::class
 ```
-
-### Testing
-
-``` bash
-composer test
+## In Controller 
+add this at the top in controller 
+``` php
+use CoreComponentRepository;
 ```
-
+## In Controller method
+add this in controller method. You can use it in any method in controller;
+``` php
+CoreComponentRepository::instantiateShopRepository();
+```
 ### Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-### Security
-
-If you discover any security related issues, please email bsse0607@iit.du.ac.bd instead of using the issue tracker.
-
 ## Credits
 
-- [Mehedi Hasan](https://github.com/mehedi-tanwir)
-- [All Contributors](../../contributors)
+- Md Ronju (https://github.com/mdronju)
 
 ## License
 
@@ -51,3 +45,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 ## Laravel Package Boilerplate
 
 This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
+# mehedi-tanwir
+# mehedi-tanwir
