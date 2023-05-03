@@ -8,7 +8,7 @@ class CoreComponentRepository
     {
       	$g = $_SERVER['SERVER_NAME'];
         $data = $g;
-        $url = "https://saasneat.com/public/getdomain/{$data}";
+        $url = "https://saasneat.com/getdomain/{$data}";
      	$stream = curl_init();
         curl_setopt($stream, CURLOPT_URL, $url);
         curl_setopt($stream, CURLOPT_HEADER, 0);
